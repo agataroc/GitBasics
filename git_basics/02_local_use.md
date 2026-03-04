@@ -78,3 +78,8 @@ To keep track of all the last commits.
 ```bash
 git log
 ```
+
+To go back and work on a certain log:
+```bash
+git checkpoint logname
+```
