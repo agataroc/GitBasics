@@ -43,6 +43,11 @@ Combines branch changes into the current branch.
 git merge feature-name
 ```
 
+To see what we've merged in so far:
+```bash
+git branch --merged
+```
+
 ---
 
 ## Push a Branch to Remote
