@@ -5,7 +5,7 @@ Displays the installed Git version.
 ```bash
 git --version
 ```
-## Configure Git (only the fist time)
+## Configure Git (only the first time)
 Sets a global identity.
 ```bash
 git config --global user.name "Name"
