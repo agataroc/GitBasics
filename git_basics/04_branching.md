@@ -12,6 +12,13 @@ git branch
 ```bash
 git branch feature-name
 ```
+---
+
+## Rename Branch
+
+```bash
+git branch -m new-branch-name
+```
 
 ---
 
