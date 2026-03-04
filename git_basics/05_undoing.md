@@ -48,3 +48,11 @@ or (Git v1.5.0)
 ```bash
 git push origin :feature-name
 ```
+
+---
+
+## Remove File from Git but Keep It Locally
+
+```bash
+git rm --cached filename.txt
+```
