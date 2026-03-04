@@ -11,6 +11,11 @@ To view remote repos, it displays the connected remote URLs:
 git remote -v
 ```
 
+To view all the branches:
+```bash
+git branch -a
+```
+
 ---
 
 ## After making changes
