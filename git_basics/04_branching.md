@@ -37,6 +37,13 @@ git checkout -b feature-name
 
 ---
 
+## Compare Branches
+```bash
+git diff main feature-name
+```
+
+---
+
 ## Merge Branch into Current Branch
 Combines branch changes into the current branch.
 ```bash
