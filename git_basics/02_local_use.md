@@ -73,10 +73,15 @@ git commit --amend
 
 ---
 
-## Keeping track of the commits
+## Keeping track
 To keep track of all the last commits.
 ```bash
 git log
+```
+
+To compact history vie:
+```bash
+git log --oneline
 ```
 
 To go back and work on a certain log:
