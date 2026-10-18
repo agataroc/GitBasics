@@ -1,4 +1,4 @@
-#Undoing changes
+# Undoing changes
 
 ## Unstage a File
 To remove a file from the staging area:
