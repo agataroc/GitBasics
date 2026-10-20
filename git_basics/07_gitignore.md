@@ -58,7 +58,7 @@ echo !debug.log >> .gitignore
 ```
 
 ---
-## Its function 
+## Why use it?
 
 1) Keeps the repo clean: so that you can not include temporary files, logs, cache files or automatically generated files
 2) Protects your privacy: it prevents you from uploading sensitive data online such as passwords, keys or variables
